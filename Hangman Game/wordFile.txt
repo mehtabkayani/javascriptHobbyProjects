@@ -1,0 +1,13 @@
+[
+    "abreact",
+    "abreacted",
+    "abreacting",
+    "abreaction",
+    "abreactions",
+    "abreacts",
+    "abreast",
+    "abri",
+    "abridge",
+    "abridged",
+    "abridgement"
+]
